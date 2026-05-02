@@ -12,4 +12,7 @@
 - [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2.
 
 # 010 Editor Templates
-- [Obscure 010 Editor Templates](https://github.com/Al-Hydra/HydraVision-Obscure-010-Editor-Templates) - 010 Editor templates for Obscure 1 and 2 files.
+- [Obscure 010 Editor Templates](https://github.com/Al-Hydra/HydraVision-Obscure-010-Editor-Templates) - [010 Editor](https://www.sweetscape.com/010editor/) templates for Obscure 1 and 2 files.
+
+# Frida scripts
+- [Frida scripts for Obscure 2.](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/ObsCure%202) - [Frida](https://github.com/frida/frida) scripts for Obscure 2.
