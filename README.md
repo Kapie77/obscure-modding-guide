@@ -1,3 +1,8 @@
+<div align="center">
+  <h1 style="font-size: 28px; margin: 10px 0;">Obscure Modding Guide</h1>
+  <p>Modification guide for all versions of Obscure 1, Obscure 2, and Final Exam.</p>
+</div>
+
 # .hvp
 - [obscure-hvp](https://github.com/YouKnow-sys/obscure-hvp) - Cross-platform CLI tool for extracting .hvp files from Obscure 1, Obscure 2, and Final Exam.
 
