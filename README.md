@@ -2,7 +2,7 @@
   <h1 style="font-size: 28px; margin: 10px 0;">Obscure Modding Guide</h1>
   <p>Modification guide for all versions of Obscure 1, Obscure 2, and Final Exam.</p>
 </div>
-<br>
+<br />
 # Formats
 
 | Format                   | What is it                           | Game                        |
