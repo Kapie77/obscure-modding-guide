@@ -3,6 +3,7 @@
   <p>Modification guide for all versions of Obscure 1, Obscure 2, and Final Exam.</p>
 </div>
 <br />
+<br />
 # Formats
 
 | Format                   | What is it                           | Game                        |
@@ -18,7 +19,7 @@
 | .vso                     |   Vertex shader          | Obscure 1, Obscure 2        |
 | .xmc                     |   Used for the UI (.xmc is just a compiled XML file)         | Obscure 1, Obscure 2        |
 | .hoe                     |   Events, collisions of the map of the room          | Obscure 1, Obscure 2        |
-<br>
+<br />
 # Tools
 ## For game files
 - [obscure-hvp](https://github.com/YouKnow-sys/obscure-hvp) - Cross-platform CLI tool for extracting .hvp files from Obscure 1, Obscure 2, and Final Exam.
@@ -32,7 +33,7 @@
 
 ## For texts
 - [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2.
-<br>
+<br />
 
 ## 010 Editor Templates
 - [Obscure 010 Editor Templates](https://github.com/Al-Hydra/HydraVision-Obscure-010-Editor-Templates) - [010 Editor](https://www.sweetscape.com/010editor/) templates for Obscure 1 and 2 files.
