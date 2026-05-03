@@ -44,7 +44,8 @@
 - [ObsCure Texture Editor](https://github.com/HeitorSpectre/ObsCure-Texture-Editor) - A UI tool for accessing, extracting, editing, and repacking textures from Obscure 1, Obscure 2 and Final Exam.
 
 ## For texts
-- [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2.
+- [ObsCure Text Editor](https://github.com/HeitorSpectre/ObsCure-Text-Editor) - UI tool for editing texts from Obscure 1, Obscure 2, and Final Exam.
+- [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2. It's a tool that has some issues and needs improvement.
 
 
 # Others
