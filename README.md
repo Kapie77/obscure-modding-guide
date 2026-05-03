@@ -23,9 +23,13 @@
 | .cre                     |   Credits, it's just plain text          | Obscure 1       |
 | .ipt                     |   Default inputs (keyboard and controller configs)          | Obscure 1        |
 | .sen                     |   Plain text, mostly comments, and I don't know what the rest is (the comments are in french)          | Obscure 1        |
-| .txe                     |             | Obscure 1        |
 | .noe                     |   Physics file.          | Obscure 1        |
-| .tm                     |   these files store information on the NPCs coordinates, the camera angles, the descriptions of the different things in the room that you can inspect (by pressing A/X/Enter) and the items (the parts of this format related to the items and the general structure can be found in the Drive folder and can be modified with my randomizer and my fileparser)          | Obscure 1        |
+| .tm                     |   These files store information on the NPCs coordinates, the camera angles, the descriptions of the different things in the room that you can inspect (by pressing A/X/Enter) and the items (the parts of this format related to the items and the general structure can be found in the Drive folder and can be modified with my randomizer and my fileparser)          | Obscure 1        |
+| .txe                     |             | Obscure 1        |
+| .oom                     |             | Obscure 1        |
+| .coa                     |             | Obscure 1        |
+| .rth                     |   Probably info on the in-engine kinematics          | Obscure 1        |
+| .rts                     |   Probably info on the in-engine kinematics          | Obscure 1        |
 
 
 # Tools
