@@ -3,6 +3,14 @@
   <p>Modification guide for all versions of Obscure 1, Obscure 2, and Final Exam.</p>
 </div>
 
+# Versions
+
+| Game                   | Versions                           |
+|--------------------------|--------------------------------------|-----------------------------|
+| Obscure 1                     |   PC (GOG, Steam, Retail), PS2, XBox        |
+| Obscure 2                     |   PC (Steam, Retail), PS2, XBox, Wii (there's a beta version too), PSP        |
+| Final Exam                     |   PC (Steam), PS3, XBox        |
+
 # Formats
 
 | Format                   | What is it                           | Game                        |
