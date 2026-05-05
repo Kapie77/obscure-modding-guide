@@ -7,9 +7,9 @@
 
 | Game                   | Versions                           |
 |--------------------------|--------------------------------------|
-| Obscure 1                     |   PC (GOG, Steam, Retail), PS2, XBox        |
-| Obscure 2                     |   PC (Steam, Retail), PS2, XBox, Wii (there's a beta version too), PSP        |
-| Final Exam                     |   PC (Steam), PS3, XBox        |
+| Obscure 1                     |   PC (GOG, Steam, Retail), PS2, Xbox        |
+| Obscure 2                     |   PC (Steam, Retail), PS2, Wii (there's a beta version too), PSP        |
+| Final Exam                     |   PC (Steam), PS3, Xbox 360        |
 
 # Formats
 
@@ -50,8 +50,9 @@
 - [zwoBlender](https://github.com/Al-Hydra/zwoBlender) - A Blender extension for importing and exporting models from Obscure 1 and 2, including characters, weapons, maps, etc, and animations. **The tool isn't 100% finished yet and needs a few fixes**.
 
 ## For textures
-- [Obscure Textures Tool](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/texDict.py) - A tool for extracting and repacking textures from Obscure 1 and 2. **It does not yet support the Wii version and .hvt**.
 - [ObsCure Texture Editor](https://github.com/HeitorSpectre/ObsCure-Texture-Editor) - A UI tool for accessing, extracting, editing, and repacking textures from Obscure 1, Obscure 2 and Final Exam.
+- [Obscure Texture Tool](https://github.com/Kapie77/obscure-texture-tool) - A cross-platform CLI for any version of Obscure 1, Obscure 2, and Final Exam.
+- [textDict](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/texDict.py) - A tool for extracting and repacking textures from Obscure 1 and 2. **It does not yet support the Wii version and .hvt (it probably only supports the Steam version)**.
 
 ## For texts
 - [ObsCure Text Editor](https://github.com/HeitorSpectre/ObsCure-Text-Editor) - UI tool for editing texts from Obscure 1, Obscure 2, and Final Exam.
@@ -63,7 +64,7 @@
 - [Obscure 010 Editor Templates](https://github.com/Al-Hydra/HydraVision-Obscure-010-Editor-Templates) - [010 Editor](https://www.sweetscape.com/010editor/) templates for Obscure 1 and 2 files.
 
 ## Frida scripts
-- [Frida scripts for Obscure 2.](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/ObsCure%202) - [Frida](https://github.com/frida/frida) scripts for Obscure 2.
+- [Frida scripts for Obscure 2](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/ObsCure%202) - [Frida](https://github.com/frida/frida) scripts for Obscure 2.
 
 ## Map Parser
 - [ObsCure 1 Map Parser](https://github.com/ran-j/obscure1-map-parser) - A desktop application for parsing and analyzing map files from Obscure 1.
