@@ -10,8 +10,9 @@
 | .hvp                     |   Contains, in compressed form, the game files  | Obscure 1, Obscure 2, Final Exam        |
 | .zwo                     |   Models (weapons, characters, map) and animations | Obscure 1, Obscure 2        |
 | .dip                |   Textures                           | Obscure 1        |
-| .dic                |   Textures                           | Obscure 2        |
+| .dic                |   Textures                           | Obscure (PS2), Obscure 2        |
 | .hvt                     |   Textures          | Obscure 2 (Wii), Final Exam       |
+| .hvi                |   Textures                           | Obscure (PS2)        |
 | .lng                     |   Texts and lines          | Obscure 1, Obscure 2, Final Exam        |
 | .sub                     |   Video subtitles          | Obscure 1, Obscure 2        |
 | .sav                     |   Save files          | Obscure 1, Obscure 2        |
