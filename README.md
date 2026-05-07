@@ -7,7 +7,7 @@
 
 | Game                   | Versions                           |
 |--------------------------|--------------------------------------|
-| Obscure 1                     |   PC (GOG, Steam, Retail), PS2, Xbox        |
+| Obscure 1                     |   PC (GOG, Steam, Retail) (there's a PC demo too), PS2, Xbox        |
 | Obscure 2                     |   PC (Steam, Retail), PS2, Wii (there's a beta version too), PSP        |
 | Final Exam                     |   PC (Steam), PS3, Xbox 360        |
 
