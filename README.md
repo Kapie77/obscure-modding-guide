@@ -56,6 +56,7 @@
 - [textDict](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/texDict.py) - A tool for extracting and repacking textures from Obscure 1 and 2. **It does not yet support the Wii version and .hvt (it probably only supports the Steam version)**.
 
 ## For texts
+- [ObsCure LNG Editor](https://github.com/AzaamAlghamdi/ObsCureLngEditor) - A standalone editor for .lng localized-text files used by ObsCure (2004).
 - [ObsCure Text Editor](https://github.com/HeitorSpectre/ObsCure-Text-Editor) - UI tool for editing texts from Obscure 1, Obscure 2, and Final Exam.
 - [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2. It's a tool that has some issues and needs improvement.
 
