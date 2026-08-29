@@ -1,72 +1,22 @@
 <div align="center">
-  <h1 style="font-size: 28px; margin: 10px 0;">Obscure Modding Guide</h1>
-  <p>Modification guide for all versions of Obscure 1, Obscure 2, and Final Exam.</p>
+  <h1 style="font-size: 28px; margin: 10px 0;">Obscure 2 - The Aftermatch (Steam) Location</h1>
+  <p>Location of game items in the Steam version.</p>
 </div>
 
-# Versions
+# Models
 
-| Game                   | Versions                           |
-|--------------------------|--------------------------------------|
-| Obscure 1                     |   PC (GOG, Steam, Retail) (there's a PC demo too), PS2, Xbox        |
-| Obscure 2                     |   PC (Steam, Retail), PS2, Wii (there's a beta version too), PSP        |
-| Final Exam                     |   PC (Steam), PS3, Xbox 360        |
-
-# Formats
-
-| Format                   | What is it                           | Game                        |
-|--------------------------|--------------------------------------|-----------------------------|
-| .hvp                     |   Contains, in compressed form, the game files  | Obscure 1, Obscure 2, Final Exam        |
-| .zwo                     |   Models (weapons, characters, map) and animations | Obscure 1, Obscure 2        |
-| .dip                |   Textures                           | Obscure 1        |
-| .dic                |   Textures                           | Obscure (PS2), Obscure 2 (PC/Wii/PS2/PSP)        |
-| .hvt                     |   Textures          | Obscure 2 (Wii), Final Exam (PC/PS3/Xbox 360)       |
-| .hvi                |   Textures                           | Obscure (PS2), Obscure 2 (PS2/PSP)        |
-| .xbr                |   Textures                           | Obscure (Xbox)        |
-| .lng                     |   Texts and lines          | Obscure 1, Obscure 2, Final Exam        |
-| .sub                     |   Video subtitles          | Obscure 1, Obscure 2        |
-| .sav                     |   Save files          | Obscure 1, Obscure 2        |
-| .pso                     |   Pixel shader          | Obscure 1, Obscure 2        |
-| .vso                     |   Vertex shader          | Obscure 1, Obscure 2        |
-| .xmc                     |   Used for the UI (.xmc is just a compiled XML file)         | Obscure 1, Obscure 2        |
-| .hoe                     |   Events, collisions of the map of the room          | Obscure 1, Obscure 2        |
-| .dat                     |   Holds data about a character or something similar the data includes files to load and their content like meshes, skeletons and animations          | Obscure 1        |
-| .map                     |  I think it stores something related to objectives, NPCs, relations between rooms, etc but I'm not sure (and I'm not even sure they're used in the game) (there's a tool made by Ran-J that parses it, but he's not too sure it works properly)          | Obscure 1        |
-| .cre                     |   Credits, it's just plain text          | Obscure 1       |
-| .ipt                     |   Default inputs (keyboard and controller configs)          | Obscure 1        |
-| .sen                     |   Plain text, mostly comments, and I don't know what the rest is (the comments are in french)          | Obscure 1        |
-| .noe                     |   Physics file.          | Obscure 1        |
-| .tm                     |   These files store information on the NPCs coordinates, the camera angles, the descriptions of the different things in the room that you can inspect (by pressing A/X/Enter) and the items (the parts of this format related to the items and the general structure can be found in the Drive folder and can be modified with my randomizer and my fileparser)          | Obscure 1        |
-| .txe                     |             | Obscure 1        |
-| .oom                     |             | Obscure 1        |
-| .coa                     |             | Obscure 1        |
-| .rth                     |   Probably info on the in-engine kinematics          | Obscure 1        |
-| .rts                     |   Probably info on the in-engine kinematics          | Obscure 1        |
-
-
-# Tools
-## For game files
-- [obscure-hvp](https://github.com/YouKnow-sys/obscure-hvp) - Cross-platform CLI tool for extracting .hvp files from Obscure 1, Obscure 2, and Final Exam.
-
-## For models
-- [zwoBlender](https://github.com/Al-Hydra/zwoBlender) - A Blender extension for importing and exporting models from Obscure 1 and 2, including characters, weapons, maps, etc, and animations. **The tool isn't 100% finished yet and needs a few fixes**.
-
-## For textures
-- [ObsCure Texture Editor](https://github.com/HeitorSpectre/ObsCure-Texture-Editor) - A UI tool for accessing, extracting, editing, and repacking textures from Obscure 1, Obscure 2 and Final Exam.
-- [Obscure Texture Tool](https://github.com/Kapie77/obscure-texture-tool) - A cross-platform CLI for any version of Obscure 1, Obscure 2, and Final Exam.
-- [textDict](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/texDict.py) - A tool for extracting and repacking textures from Obscure 1 and 2. **It does not yet support the Wii version and .hvt (it probably only supports the Steam version)**.
-
-## For texts
-- [ObsCure LNG Editor](https://github.com/AzaamAlghamdi/ObsCureLngEditor) - A standalone editor for .lng localized-text files used by ObsCure (2004).
-- [ObsCure Text Editor](https://github.com/HeitorSpectre/ObsCure-Text-Editor) - UI tool for editing texts from Obscure 1, Obscure 2, and Final Exam.
-- [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2. It's a tool that has some issues and needs improvement.
-
-
-# Others
-## 010 Editor Templates
-- [Obscure 010 Editor Templates](https://github.com/Al-Hydra/HydraVision-Obscure-010-Editor-Templates) - [010 Editor](https://www.sweetscape.com/010editor/) templates for Obscure 1 and 2 files.
-
-## Frida scripts
-- [Frida scripts for Obscure 2](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/ObsCure%202) - [Frida](https://github.com/frida/frida) scripts for Obscure 2.
-
-## Map Parser
-- [ObsCure 1 Map Parser](https://github.com/ran-j/obscure1-map-parser) - A desktop application for parsing and analyzing map files from Obscure 1.
+| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
+| Stan    |   "boy1_pc", "b1_hair_pc" and "b1chain_pc"    | datapack\characters\boy1\skins    |   "b1_body", "b1_hair" and "b1_head"    |   datapack\characters\boy1\boy1_pc    |
+| Corey    |   "boy2_pc" and "b2_hair_pc"    | datapack\characters\boy2\skins    |   "b2_body", "b2_hair" and "b2_head"    |   datapack\characters\boy2\boy2_pc    |
+| Sven    |   "boy3_pc" and "b3hair_pc"    | datapack\characters\boy3\skins    |   "b3_body", "b3_hair" and "b3_head"    |   datapack\characters\boy3\boy3_pc    |
+| Kenny    |   "boy4_pc" and "b4_hair_pc"    | datapack\characters\boy4\skins    |   "b4_body", "b4_hair" and "b4_head"    |   datapack\characters\boy4\boy4_pc    |
+| Shannon    |   "gir1_pc.zwo" and "g1hair_pc.zwo"    | datapack\characters\gir1\skins    |   "g1_body", "g1_hair" and "g1_head"    |   datapack\characters\gir1\gir1_pc    |
+| Mei    |   "gir2_pc" and "g2_hair_pc"    | datapack\characters\gir2\skins    |   "g2_body", "g2_hair" and "g2_head"    |   datapack\characters\gir2\gir2_pc    |
+| Amy    |   "gir3_pc", "g3hair01_pc" and "g3hair02_pc"    | datapack\characters\gir3\skins    |   "g3_body", "g3_hair01", "g3_hair02" and "g3_head"    |   datapack\characters\gir3\gir3_pc    |
+| Amy (dead in the flower)    |   "lvl_pc_.zwo" (NPCG01_0)    | datapack\levels\k\k003    |   "amybmp" and "amytga"    |   datapack\levels\k\k003\lvl_pc    |
+| Jun    |   "gir4_pc" and "g4_hair_pc"    | datapack\characters\gir4\skins    |   "g4_body", "g4_hair" and "g4_head"    |   datapack\characters\gir4\gir4_pc    |
+| Jun (sleeping)   |   "lvl_pc_.zwo" (PosingJun)    | datapack\levels\b\b105    |   "JunB" and "JunH"    |   datapack\levels\b\b105\lvl_pc    |
+| Jedidiah    |   jedi_pc    | datapack\characters\jedi\skins    |   jedi_body, jedi_head    |   datapack\characters\jedi\jedi_pc    |
+| Leonard Friedman    |   "nleo_pc"    | datapack\characters\nleo\skins    |   "Neoleo" and "neoleo_int"    |   datapack\characters\nleo\nleo_pc    |
+| Richard James    |   "prof_pc" and "prof_lunettes_pc"    | datapack\characters\prof\skins    |   "prof_body", "prof_head" and "prof_lunet"    |   datapack\characters\prof\prof_pc    |
