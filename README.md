@@ -62,6 +62,9 @@
 
 
 # Others
+## ObsCure Docs
+- [Obscure Docs](https://elpitifor.github.io/ObsCureDocs/) - A collaborative documentation for the ObsCure franchise. There you will find information on how the games work and their file formats, which will be very important to make tools or mods for them.
+
 ## 010 Editor Templates
 - [Obscure 010 Editor Templates](https://github.com/Al-Hydra/HydraVision-Obscure-010-Editor-Templates) - [010 Editor](https://www.sweetscape.com/010editor/) templates for Obscure 1 and 2 files.
 
