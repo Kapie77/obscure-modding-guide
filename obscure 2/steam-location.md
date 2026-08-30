@@ -63,3 +63,24 @@
 |----------------|---------------|-------|
 | Root    |   Idk wtf is this model    | datapack\characters\root\skins    | 
 | Vine    |   Idk wtf is this model    | datapack\characters\vine\skins    | 
+
+## Weapons
+| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
+| Bat    |   "bat_pc"    | loadpack\assets\weapons    |   w_bat.dds    |   datapack\texpc_pc    |
+| Chainsaw    |   "chainsaw_pc"    | loadpack\assets\weapons    |   w_chainsaw.dds    |   datapack\texpc_pc    |
+| HockeyStick    |   "cross_pc"    | loadpack\assets\weapons    |   w_cross.dds    |   datapack\texpc_pc    |
+| Crossbow    |   "crossbow_pc"    | loadpack\assets\weapons    |   w_crossbow.dds    |   datapack\texpc_pc    |
+| Dynamite    |   "dynamite_pc"    | loadpack\assets\weapons    |   w_dynamite.dds    |   datapack\texpc_pc    |
+| Flaregun    |   "flaregun_pc"    | loadpack\assets\weapons    |   w_flaregun.dds    |   datapack\texpc_pc    |
+| Flaregun 2    |   "flashball_pc"    | loadpack\assets\weapons    |   w_flasball.dds    |   datapack\texpc_pc    |
+| Flashbang    |   "flashbang_pc"    | loadpack\assets\weapons    |   w_flashbang.dds    |   datapack\texpc_pc    |
+| Flashlight    |   "flashlight_pc"    | loadpack\assets\weapons    |   w_flashlight.dds    |   datapack\texpc_pc    |
+| Golf Club    |   "golfclub_pc"    | loadpack\assets\weapons    |   w_golfclub.dds    |   datapack\texpc_pc    |
+| Pistol    |   "gun_pc"    | loadpack\assets\weapons    |   w_gun.dds    |   datapack\texpc_pc    |
+| Shotgun    |   "shotgun_pc"    | loadpack\assets\weapons    |   w_shotgun.dds    |   datapack\texpc_pc    |
+| Taser    |   "taser_pc"    | loadpack\assets\weapons    |   w_taser.dds    |   datapack\texpc_pc    |
+|     |   "tasergun_elec_sphere_pc"    | loadpack\assets\weapons    |       |       |
+| Uber Flashlight    |   "uberflashlight_pc"    | loadpack\assets\weapons    |   w_uberflashlight.dds    |   datapack\texpc_pc    |
+| Uzi    |   "uzi_pc"    | loadpack\assets\weapons    |   w_uzi.dds    |   datapack\texpc_pc    |
+| Bat (upgraded)    |   "w_batclout_pc"    | loadpack\assets\weapons    |   w_batclout.dds    |   datapack\texpc_pc    |
