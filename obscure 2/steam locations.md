@@ -121,3 +121,14 @@
 | Syringe    |   syringe_pc    | cachpack\assets\items    |   a_syringe.dds    |   datapack\texpc_pc    |
 | Walkie Talkie (Discarded/Unused)    |   talkie_pc    | cachpack\assets\items    |   a_talkie.dds    |   datapack\texpc_pc    |
 | Welder    |   welder_pc    | cachpack\assets\items    |   a_welder.dds    |   datapack\texpc_pc    |
+
+# Localization
+
+| Language      | File    | Path  | Textures  | Textures Location  |
+|----------------|---------------|-------|---------------|-------------------|
+| German    |   de.lng    | datapack\strings    |   bg_items_de, bg_team_de, bg_weapon_de    |   datapack\menus\texpc    |
+| English    |   en.lng    | datapack\strings    |   bg_items_en, bg_team_en, bg_weapon_en    |   datapack\menus\texpc    |
+| French    |   fr.lng    | datapack\strings    |   bg_items_fr, bg_team_fr, bg_weapon_fr    |   datapack\menus\texpc    |
+| Italian    |   it.lng    | datapack\strings    |   bg_items_it, bg_team_it, bg_weapon_it    |   datapack\menus\texpc    |
+| Spanish    |   sp.lng    | datapack\strings    |   bg_items_sp, bg_team_sp, bg_weapon_sp    |   datapack\menus\texpc    |
+| loadpack\kines\subs    |       |       |      |
