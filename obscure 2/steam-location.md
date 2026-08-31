@@ -84,3 +84,40 @@
 | Uber Flashlight    |   "uberflashlight_pc"    | loadpack\assets\weapons    |   w_uberflashlight.dds    |   datapack\texpc_pc    |
 | Uzi    |   "uzi_pc"    | loadpack\assets\weapons    |   w_uzi.dds    |   datapack\texpc_pc    |
 | Bat (upgraded)    |   "w_batclout_pc"    | loadpack\assets\weapons    |   w_batclout.dds    |   datapack\texpc_pc    |
+
+## Items
+| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
+| Acid    |   acid_pc    | cachpack\assets\items    |   a_acid.dds    |   datapack\texpc_pc    |
+| Quiver    |   amcr_pc    | cachpack\assets\items    |   a_amcr.dds   |   datapack\texpc_pc    |
+| Bullets    |   amfb_pc    | cachpack\assets\items    |   a_amfb.dds    |   datapack\texpc_pc    |
+| Package with bullets    |   amfg_pc    | cachpack\assets\items    |   a_amfg.dds    |   datapack\texpc_pc    |
+| Pistol comb    |   amgu_pc    | cachpack\assets\items    |   a_amgu.dds    |   datapack\texpc_pc    |
+| Ammunition box    |   amsh_pc    | cachpack\assets\items    |   a_amsh.dds    |   datapack\texpc_pc    |
+| Mini SMG comb    |   amuz_pc    | cachpack\assets\items    |   a_amuz.dds    |   datapack\texpc_pc    |
+| Backpack (Discarded/Unused)    |   backpack003_pc    | cachpack\assets\items    |   a_backpack003.dds    |   datapack\texpc_pc    |
+| Bleach    |   bleach_pc    | cachpack\assets\items    |   a_bleach.dds    |   datapack\texpc_pc    |
+| Key    |   chestkey_pc    | cachpack\assets\items    |   TheTransitKey.dds    |   datapack\texpc_pc    |
+| Crank 1 (Discarded/Unused)    |   crank001_pc    | cachpack\assets\items    |   a_crank001.dds    |   datapack\texpc_pc    |
+| Crank 2    |   crank002_pc    | cachpack\assets\items    |   a_crank002.dds    |   datapack\texpc_pc    |
+| Triangle disc    |   disc001_pc    | cachpack\assets\items    |   a_disc001.dds    |   datapack\texpc_pc    |
+| Circle disc    |   disc002_pc    | cachpack\assets\items    |  a_disc002.dds    |   datapack\texpc_pc    |
+| Energy Drink    |   energydrink_pc    | cachpack\assets\items    |   a_energydrink.dds    |   datapack\texpc_pc    |
+| Glycerin    |   glycerin_pc    | cachpack\assets\items    |   a_glycerin.dds    |   datapack\texpc_pc    |
+| Ice    |   ice_pc    | cachpack\assets\items    |   a_ice.dds    |   datapack\texpc_pc    |
+| Bolt Cutter    |   jemmy_pc    | cachpack\assets\items    |   a_jemmy.dds    |   datapack\texpc_pc    |
+| Gasoline    |   jerrycan_pc    | cachpack\assets\items    |   a_jerrycan.dds    |   datapack\texpc_pc    |
+| Key 2    |   key002_pc    | cachpack\assets\items    |   a_key002.dds    |   datapack\texpc_pc    |
+| Mei's key (Discarded/Unused)    |   key008_pc    | cachpack\assets\items    |   a_key008.dds    |   datapack\texpc_pc    |
+| Key 3    |   key012_pc    | cachpack\assets\items    |   a_key012.dds    |   datapack\texpc_pc    |
+| Lever (Discarded)    |   lever_pc    | cachpack\assets\items    |   a_lever.dds    |   datapack\texpc_pc    |
+| Medallion 1    |   medallion001_pc    | cachpack\assets\items    |   a_medallion001.dds    |   datapack\texpc_pc    |
+| Medallion 2    |   medallion002_pc    | cachpack\assets\items    |   a_medallion002.dds    |   datapack\texpc_pc    |
+| Medkit    |   medikit_pc    | cachpack\assets\items    |   a_medikit.dds    |   datapack\texpc_pc    |
+| Herbert West pass    |   pass001_pc    | cachpack\assets\items    |   a_pass001.dds    |   datapack\texpc_pc    |
+| William Klingemann pass    |   pass002_pc    | cachpack\assets\items    |   a_pass002.dds    |   datapack\texpc_pc    |
+| Caustic soda    |   soda_pc    | cachpack\assets\items    |   a_soda.dds    |   datapack\texpc_pc    |
+| Crucifix    |   statuette_pc    | cachpack\assets\items    |   a_statuette.dds    |   datapack\texpc_pc    |
+| Syringe    |   syringe_pc    | cachpack\assets\items    |   a_syringe.dds    |   datapack\texpc_pc    |
+| Walkie Talkie (Discarded/Unused)    |   talkie_pc    | cachpack\assets\items    |   a_talkie.dds    |   datapack\texpc_pc    |
+| Welder    |   welder_pc    | cachpack\assets\items    |   a_welder.dds    |   datapack\texpc_pc    |
