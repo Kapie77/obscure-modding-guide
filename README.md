@@ -60,6 +60,8 @@
 - [ObsCure Text Editor](https://github.com/HeitorSpectre/ObsCure-Text-Editor) - UI tool for editing texts from Obscure 1, Obscure 2, and Final Exam.
 - [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2. It's a tool that has some issues and needs improvement.
 
+# For .xmc
+- [xmc.py](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/utils/xmc.py) - Python script to convert .xmc to .xml and .xml to .xmc.
 
 # Others
 ## ObsCure Docs
