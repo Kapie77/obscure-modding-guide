@@ -61,7 +61,8 @@
 - [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2. It's a tool that has some issues and needs improvement.
 
 ## For .xmc
-- [xmc.py](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/utils/xmc.py) - Python script to convert .xmc to .xml and .xml to .xmc.
+- [Obscure XMC Converter](https://github.com/Kapie77/Obscure-XMC-Converter) - A tool for converting .xmc to .xml — and .xml to .xmc — from Obscure 1 and Obscure 2.
+- [xmc.py](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/utils/xmc.py) - Python script to convert .xmc to .xml.
 
 # Others
 ## ObsCure Docs
