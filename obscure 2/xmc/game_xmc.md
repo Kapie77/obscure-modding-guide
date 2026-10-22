@@ -161,14 +161,14 @@ The following codes occur in `toe` entries with `type="item"`. The expansions be
 | `PASS` | Pass or access card |
 | `WELD` | Welder |
 | `LVER` | Lever-related item; the model reference marks a lever model as discarded |
-| `ICRN` | Unknown; needs confirmation |
-| `MEDA` | Unknown; needs confirmation |
-| `IDSC` | Unknown; needs confirmation |
+| `ICRN` | Crank handle; associated textures include `fs_icrn001` and `fs_icrn002` |
+| `MEDA` | Medallion; associated textures include `fs_meda001` and `fs_meda002`. Models include `medallion001_pc` and `medallion002_pc` |
+| `IDSC` | Puzzle plate; associated textures include `fs_idsc001` and `fs_idsc002`. The plates have triangular markings and holes and are used in a light-reflection puzzle |
 | `JEMM` | Likely jemmy / bolt cutter, based on the model reference |
 | `SYRI` | Syringe |
-| `SERU` | Unknown; needs confirmation |
-| `CPSS` | Unknown; needs confirmation |
-| `CHKE` | Unknown; needs confirmation |
+| `SERU` | Serum / healing item; associated textures include `fs_seru001`, `fs_seru002`, and `fs_seru003`. The exact relationship between variants remains unconfirmed |
+| `CPSS` | Compass; associated texture: `fs_cpss` |
+| `CHKE` | Small key used to unlock important objects or access points; associated texture: `fs_chke` |
 | `STAT` | Possibly statuette; the model reference lists a crucifix/statuette model |
 | `BKPK` | Backpack; the model reference marks one backpack model as discarded/unused |
 | `TBAT` | Possibly a battery-related item; unconfirmed |
