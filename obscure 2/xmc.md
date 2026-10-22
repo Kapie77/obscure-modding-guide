@@ -1,6 +1,6 @@
 # Obscure 2 — XMC File Inventory
 
-## Map
+## Tree
 ```text
 cachpack.hvp
 └── assets
