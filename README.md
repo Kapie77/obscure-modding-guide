@@ -11,6 +11,16 @@
 | Obscure 2                     |   PC (Steam, Retail), PS2, Wii (there's a beta version too), PSP        |
 | Final Exam                     |   PC (Steam), PS3, Xbox 360        |
 
+# Engine
+ObsCure 1 and 2 was made in RenderWare engine.
+
+"Our technological products:
+- Zoe, multi-platform 3D engine,
+- Noe, physics engine,
+- Hoe, artificial intelligence engine,
+- BioMotek, our character animation engine.
+Biomotek is notably supported by ANVAR."
+
 # Formats
 
 | Format                   | What is it                           | Game                        |
