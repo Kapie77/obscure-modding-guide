@@ -79,19 +79,53 @@ The character identifiers are:
 | `GIR3` | Character identifier |
 | `GIR4` | Character identifier |
 
-The identifiers suggest a naming scheme that distinguishes two groups of four characters. The XML alone does not establish their official names or confirm their exact relationship to the game's character roster.
+The identifiers suggest a naming scheme that distinguishes two groups of four characters. The XML alone does not establish their official names or confirm their exact relationship to the game's character roster.## 2. Character Entries
 
-### 2.1 Character Attributes
+Each chapter configuration in the supplied file contains eight character entries. Their identifiers correspond to the game's eight main characters, as established by the character model names and asset paths.
 
-| Attribute | Observed behavior | Interpretation |
+### 2.1 Character Identifier Mapping
+
+| XML identifier | Character name | Primary model name | Model asset location |
+|---|---|---|---|
+| `BOY1` | Stan | `boy1_pc` | `datapack\characters\boy1\boy1_pc` |
+| `BOY2` | Corey | `boy2_pc` | `datapack\characters\boy2\boy2_pc` |
+| `BOY3` | Sven | `boy3_pc` | `datapack\characters\boy3\boy3_pc` |
+| `BOY4` | Kenny | `boy4_pc` | `datapack\characters\boy4\boy4_pc` |
+| `GIR1` | Shannon | `gir1_pc.zwo` | `datapack\characters\gir1\gir1_pc` |
+| `GIR2` | Mei | `gir2_pc` | `datapack\characters\gir2\gir2_pc` |
+| `GIR3` | Amy | `gir3_pc` | `datapack\characters\gir3\gir3_pc` |
+| `GIR4` | Jun | `gir4_pc` | `datapack\characters\gir4\gir4_pc` |
+
+The `BOY1`–`BOY4` and `GIR1`–`GIR4` identifiers are therefore character references, not merely anonymous character categories.
+
+### 2.2 Character Model Variants
+
+Some characters have additional model variants:
+
+| Character | Additional model or asset location | Notes |
 |---|---|---|
-| `id` | Contains identifiers such as `BOY1` and `GIR3`. | Identifies the character entry. |
-| `level_id` | Contains level identifiers or the value `0`. | Associates the character with a level or uses a special/default value. |
-| `pos_id` | Contains values such as `0`, `30`, `117`, `1002`, and `2003`. | Likely identifies a position or predefined placement. The exact mapping is unknown. |
-| `life` | All supplied character entries use `100.0`. | Represents a life-related value, likely the character's initial life or health. |
-| `controller` | Contains values such as `0`, `CHC1`, `CHTM`, and an empty string. | Identifies a controller-related setting. The precise meaning of each value is unconfirmed. |
+| Corey | `boy2b_pc` under `datapack\characters\boy2b\boy2b_pc` | Alternative character model assets. |
+| Amy | `gir3b_pc` under `datapack\characters\gir3b\gir3b_pc` | Alternative character model assets. |
+| Amy (dead in the flower bed) | `NPCG01_0` in `datapack\levels\k\k003\lvl_pc` | Level-specific representation using the `amybmp` and `amytga` textures. |
+| Jun (sleeping) | `PosingJun` in `datapack\levels\b\b105\lvl_pc` | Level-specific representation using the `JunB` and `JunH` textures. |
 
-### 2.2 Character Life
+These level-specific representations should not be treated as additional character identifiers in `chapters.xmc`. They are separate asset references associated with particular scenes or level content.
+
+### 2.3 Character Attributes
+
+Each character entry can contain the following attributes:
+
+| Attribute | Description |
+|---|---|
+| `id` | Identifies the character using one of the eight identifiers listed above. |
+| `level_id` | Associates the character with a level identifier or the value `0`. |
+| `pos_id` | Stores a numeric position reference. Its exact mapping to in-game placement has not yet been established. |
+| `life` | Stores the character's life-related value. All character entries in the supplied XML use `100.0`. |
+| `controller` | Stores a controller-related value, including `0`, `CHC1`, `CHTM`, or, in one case, an empty string. The exact meanings of these values remain under investigation. |
+
+A character's `level_id` can differ from the parent chapter's `level_id`. These values should be documented separately rather than assuming that every character belongs to the chapter's primary level.
+
+### 2.4 Character Life
 
 All character entries in the supplied XML use:
 
@@ -103,7 +137,7 @@ No different life values were observed in the supplied data.
 
 This establishes that the configurations store the same life value for all listed characters. It does not establish whether the game always initializes characters at this value or whether the file is only a default configuration.
 
-### 2.3 Controller Values
+### 2.5 Controller Values
 
 The following values occur in the `controller` attribute:
 
@@ -130,7 +164,7 @@ These values may identify controller types, control assignments, or another inte
 
 The value `0` should not automatically be interpreted as a dead, unavailable, or unplayable character. The XML does not establish that relationship.
 
-### 2.4 Character Level IDs Can Differ from the Chapter Level
+### 2.6 Character Level IDs Can Differ from the Chapter Level
 
 A character's `level_id` does not always match the parent chapter's `level_id`.
 
