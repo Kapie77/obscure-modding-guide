@@ -59,3 +59,4 @@ datapack.hvp
 | File | Known location / context | Status | Summary |
 |---|---|---|---|
 | [`game.xmc`](xmc/game_xmc.md) | Extracted to `game.xml` for inspection | **Analyzed** | Appears to contain game configuration and resource references, including character/state settings, item and weapon metadata, save-point identifiers, chest contents, cinematic entries, animation files, and resource directories. |
+| [`chapters.xmc`](xmc/chapters_xmc.md) | Extracted to `chapters.xml` for inspection | **Analyzed** | Contains chapter configuration entries, including chapter and level identifiers, character assignments, character-specific level and position references, controller settings, life values, chest configuration, and item availability with associated attributes across multiple chapter configurations. |
