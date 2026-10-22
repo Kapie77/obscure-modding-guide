@@ -27,7 +27,7 @@
 | .sav                     |   Save files          | Obscure 1, Obscure 2        |
 | .pso                     |   Pixel shader          | Obscure 1, Obscure 2        |
 | .vso                     |   Vertex shader          | Obscure 1, Obscure 2        |
-| .xmc                     |   Used for the UI (.xmc is just a compiled XML file)         | Obscure 1, Obscure 2        |
+| .xmc                     |   Used for the UI (.xmc is just a compiled XML file)         | Obscure 2, Final Exam        |
 | .hoe                     |   Events, collisions of the map of the room          | Obscure 1, Obscure 2        |
 | .dat                     |   Holds data about a character or something similar the data includes files to load and their content like meshes, skeletons and animations          | Obscure 1        |
 | .map                     |  I think it stores something related to objectives, NPCs, relations between rooms, etc but I'm not sure (and I'm not even sure they're used in the game) (there's a tool made by Ran-J that parses it, but he's not too sure it works properly)          | Obscure 1        |
