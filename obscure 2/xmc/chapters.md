@@ -64,23 +64,6 @@ The `chest` attribute must not be assumed to represent a literal chest, checkpoi
 
 ## 2. Character Entries
 
-Each chapter configuration in the supplied file contains eight character entries.
-
-The character identifiers are:
-
-| Identifier | Classification |
-|---|---|
-| `BOY1` | Character identifier |
-| `BOY2` | Character identifier |
-| `BOY3` | Character identifier |
-| `BOY4` | Character identifier |
-| `GIR1` | Character identifier |
-| `GIR2` | Character identifier |
-| `GIR3` | Character identifier |
-| `GIR4` | Character identifier |
-
-The identifiers suggest a naming scheme that distinguishes two groups of four characters. The XML alone does not establish their official names or confirm their exact relationship to the game's character roster.## 2. Character Entries
-
 Each chapter configuration in the supplied file contains eight character entries. Their identifiers correspond to the game's eight main characters, as established by the character model names and asset paths.
 
 ### 2.1 Character Identifier Mapping
