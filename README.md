@@ -53,6 +53,11 @@ Biomotek is notably supported by ANVAR."
 | .coa                     |             | Obscure 1        |
 | .rth                     |   Probably info on the in-engine kinematics          | Obscure 1        |
 | .rts                     |   Probably info on the in-engine kinematics          | Obscure 1        |
+| .xwma                     |   Audio file          | Final Exam        |
+| .srt                     |   Subtitle file          | Final Exam        |
+| .ogv                     |   Video File          | Final Exam        |
+| .wav                     |   Audio File          | Obscure 1, Obscure 2, Final Exam        |
+| .ogg                     |   Audio File          | Obscure 1, Obscure 2        |
 
 
 # Tools
