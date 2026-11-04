@@ -60,6 +60,7 @@ Biomotek is notably supported by ANVAR."
 | .ogg                     |   Audio File          | Obscure 1, Obscure 2        |
 | .csv                     |   A CSV file is a comma-separated values file commonly used by spreadsheet programs such as Microsoft Excel or OpenOffice Calc.          | Final Exam        |
 | .swf                     |   An SWF file is an animation that may contain text, vector and raster graphics, and interactive content written in ActionScript. It is saved in the Adobe Flash format, which Adobe discontinued on December 31, 2020.           | Final Exam        |
+| .ani                     |   Animations          | Final Exam        |
 
 
 # Tools
