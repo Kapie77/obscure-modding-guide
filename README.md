@@ -63,6 +63,7 @@ Biomotek is notably supported by ANVAR."
 | .ani                     |   Animations          | Final Exam        |
 | .at3                     |   Audio          | Obscure 2 (PSP)        |
 | .pmf                     |   Video          | Obscure 2 (PSP)        |
+| .wsi                     |   Audio. The .wsi is not a closed format: it is DSP-ADPCM audio, the sound format of the GameCube and Wii, inside a simple container.          | Obscure 2 (Wii)        |
 
 
 # Tools
