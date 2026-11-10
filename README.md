@@ -64,6 +64,10 @@ Biomotek is notably supported by ANVAR."
 | .at3                     |   Audio          | Obscure 2 (PSP)        |
 | .pmf                     |   Video          | Obscure 2 (PSP)        |
 | .wsi                     |   Audio. The .wsi is not a closed format: it is DSP-ADPCM audio, the sound format of the GameCube and Wii, inside a simple container.          | Obscure 2 (Wii)        |
+| .msb                     |   Audio          | Obscure 2 (PS2)        |
+| .msh                     |   Audio          | Obscure 2 (PS2)        |
+| .mib                     |   Audio          | Obscure 2 (PS2)        |
+| .mih                     |   The .mih file contains information at what rate the .mib file should be played. It can be played without it though, although you don't know what the real rate is.          | Obscure 2 (PS2)        |
 
 
 # Tools
