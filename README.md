@@ -73,6 +73,7 @@ Biomotek is notably supported by ANVAR."
 # Tools
 ## For game files
 - [obscure-hvp](https://github.com/YouKnow-sys/obscure-hvp) - Cross-platform CLI tool for extracting .hvp files from Obscure 1, Obscure 2, and Final Exam.
+- [Obscure Explorer](https://github.com/Kapie77/Obscure-Explorer) - A read-only asset explorer (FModel style) for Obscure 1, Obscure 2 and Final Exam: browse the .hvp archives and loose game files, search, preview, and export. Nothing is re-encoded or repacked.
 
 ## For models
 - [zwoBlender](https://github.com/Al-Hydra/zwoBlender) - A Blender extension for importing and exporting models from Obscure 1 and 2, including characters, weapons, maps, etc, and animations. **The tool isn't 100% finished yet and needs a few fixes**.
@@ -88,7 +89,7 @@ Biomotek is notably supported by ANVAR."
 - [Obscure LNG Tool](https://github.com/Kapie77/Obscure-LNG-Tool) - A cross-platform CLI tool for extracting and editing text from Obscure 1 and 2. It's a tool that has some issues and needs improvement.
 
 ## For .xmc
-- [Obscure XMC Converter](https://github.com/Kapie77/Obscure-XMC-Converter) - A tool for converting .xmc to .xml — and .xml to .xmc — from Obscure 1 and Obscure 2.
+- [Obscure XMC Converter](https://github.com/Kapie77/Obscure-XMC-Converter) - A tool for converting .xmc to .xml — and .xml to .xmc — from Obscure 2 and Final Exam.
 - [xmc.py](https://github.com/Al-Hydra/zwoBlender/blob/main/zwoLib/utils/xmc.py) - Python script to convert .xmc to .xml.
 
 # Others
