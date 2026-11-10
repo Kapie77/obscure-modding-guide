@@ -69,6 +69,7 @@ Biomotek is notably supported by ANVAR."
 | .mib                     |   Audio          | Obscure 2 (PS2)        |
 | .mih                     |   The .mih file contains information at what rate the .mib file should be played. It can be played without it though, although you don't know what the real rate is.          | Obscure 2 (PS2)        |
 | .wsb                     |   A .wsb file is commonly a Windows Sandbox configuration file (formatted as XML) that you use to set options for Windows Sandbox.          | Obscure 2 (Wii)        |
+| .pss                     |   Video. A PSS file is a video file used by games for the PlayStation 2 console. It contains audio and video data and is used for playing in-game cutscenes and other movies.          | Obscure 2 (PS2)        |
 
 
 # Tools
