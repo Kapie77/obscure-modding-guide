@@ -64,12 +64,14 @@ Biomotek is notably supported by ANVAR."
 | .at3                     |   Audio          | Obscure 2 (PSP)        |
 | .pmf                     |   Video          | Obscure 2 (PSP)        |
 | .wsi                     |   Audio. The .wsi is not a closed format: it is DSP-ADPCM audio, the sound format of the GameCube and Wii, inside a simple container.          | Obscure 2 (Wii)        |
-| .msb                     |   Audio          | Obscure 2 (PS2)        |
+| .msb                     |   Audio          | Obscure 2 (PS2). Final Exam (Xbox 360)        |
 | .msh                     |   Audio          | Obscure 2 (PS2)        |
 | .mib                     |   Audio          | Obscure 2 (PS2)        |
 | .mih                     |   The .mih file contains information at what rate the .mib file should be played. It can be played without it though, although you don't know what the real rate is.          | Obscure 2 (PS2)        |
 | .wsb                     |   A .wsb file is commonly a Windows Sandbox configuration file (formatted as XML) that you use to set options for Windows Sandbox.          | Obscure 2 (Wii)        |
 | .pss                     |   Video. A PSS file is a video file used by games for the PlayStation 2 console. It contains audio and video data and is used for playing in-game cutscenes and other movies.          | Obscure 2 (PS2)        |
+| .xma                     |   Audio. An XMA file is an audio file used by the Xbox 360 gaming console and DirectX components in Windows.           | Final Exam (Xbox 360)        |
+| .wmv                     |   Video.           | Final Exam (Xbox 360)        |
 
 
 # Tools
