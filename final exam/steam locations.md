@@ -15,9 +15,11 @@
 | Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |       |       |
 | Assistante    |   assistante.zwo    | data\common\assets\characters\pnjs\assistante\skins    |       |       |
 | Engineer    |   engineer.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
+| Handyman    |   handyman.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
 | Fatwilly    |   fatwilly.zwo    | data\common\assets\characters\pnjs\fatwilly\skins    |       |       |
 | Holga    |   holga.zwo    | data\common\assets\characters\pnjs\holga\skins    |       |       |
 | Principal    |   principal.zwo    | data\common\assets\characters\pnjs\professor\skins    |       |       |
+| Scientist    |   scientist.zwo    | data\common\assets\characters\pnjs\professor\skins    |       |       |
 | School Kid 01    |   schoolkid01.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
 | School Kid 02    |   schoolkid02.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
 | School Kid 03    |   schoolkid03.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
@@ -41,6 +43,7 @@
 | Jumper    |   jumper.zwo    |  data\common\assets\characters\monsters\jumper\skins   |       |       |
 | Spitter    |   spitter.zwo    |  data\common\assets\characters\monsters\jumper\skins   |       |       |
 | Tank    |   tank.zwo    |  data\common\assets\characters\monsters\tank\skins   |       |       |
+| Tank Boss    |   tank_boss.zwo    |  data\common\assets\characters\monsters\tank\skins   |       |       |
 
 # Maps
 
