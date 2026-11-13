@@ -15,6 +15,8 @@
 | Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |       |       |
 
 ## NPCs
+| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
 | Assistante    |   assistante.zwo    | data\common\assets\characters\pnjs\assistante\skins    |       |       |
 | Engineer    |   engineer.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
 | Handyman    |   handyman.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
