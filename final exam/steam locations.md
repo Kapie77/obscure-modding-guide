@@ -19,6 +19,14 @@
 | Holga    |   holga.zwo    | data\common\assets\characters\pnjs\holga\skins    |       |       |
 | Principal    |   principal.zwo    | data\common\assets\characters\pnjs\professor\skins    |       |       |
 | School Kid 01    |   schoolkid01.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 02    |   schoolkid02.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 03    |   schoolkid03.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 04    |   schoolkid04.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 05    |   schoolkid05.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 06    |   schoolkid06.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 07    |   schoolkid07.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 08    |   schoolkid08.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| School Kid 09    |   schoolkid09.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
 | Shannon    |   shannon.zwo    | data\common\assets\characters\pnjs\shannon\skins    |       |       |
 
 
