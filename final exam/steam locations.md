@@ -33,7 +33,7 @@
 | School Kid 07    |   schoolkid07.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
 | School Kid 08    |   schoolkid08.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
 | School Kid 09    |   schoolkid09.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| Shannon    |   shannon.zwo    | data\common\assets\characters\pnjs\shannon\skins    |       |       |
+| Shannon    |   shannon.zwo    | data\common\assets\characters\pnjs\shannon\skins    |   shannon01_diff.hvt, shannon_spec.hvt    |   data\common\assets\textures    |
 
 
 ## Monsters
