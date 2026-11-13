@@ -65,7 +65,7 @@
 | Vine    |   Idk wtf is this model    | datapack\characters\vine\skins    | 
 
 ## Weapons
-| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+| Weapon      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
 | Bat    |   "bat_pc"    | loadpack\assets\weapons    |   w_bat.dds    |   datapack\texpc_pc    |
 | Chainsaw    |   "chainsaw_pc"    | loadpack\assets\weapons    |   w_chainsaw.dds    |   datapack\texpc_pc    |
