@@ -17,22 +17,22 @@
 ## NPCs
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
-| Assistante    |   assistante.zwo    | data\common\assets\characters\pnjs\assistante\skins    |       |       |
-| Engineer    |   engineer.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
-| Handyman    |   handyman.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
-| Fatwilly    |   fatwilly.zwo    | data\common\assets\characters\pnjs\fatwilly\skins    |       |       |
-| Holga    |   holga.zwo    | data\common\assets\characters\pnjs\holga\skins    |       |       |
-| Principal    |   principal.zwo    | data\common\assets\characters\pnjs\professor\skins    |       |       |
-| Scientist    |   scientist.zwo    | data\common\assets\characters\pnjs\professor\skins    |       |       |
-| School Kid 01    |   schoolkid01.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 02    |   schoolkid02.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 03    |   schoolkid03.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 04    |   schoolkid04.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 05    |   schoolkid05.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 06    |   schoolkid06.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 07    |   schoolkid07.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 08    |   schoolkid08.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
-| School Kid 09    |   schoolkid09.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |       |       |
+| Assistante    |   assistante.zwo    | data\common\assets\characters\pnjs\assistante\skins    |   assistante_diff.hvt    |    data\common\assets\textures   |
+| Engineer    |   engineer.zwo    | data\common\assets\characters\pnjs\engineer\skins    |    engineer_diff.hvt, engineer_spec.hvt   |   data\common\assets\textures    |
+| Handyman    |   handyman.zwo    | data\common\assets\characters\pnjs\engineer\skins    |    engineervar_diff.hvt   |   data\common\assets\textures    |
+| Fatwilly    |   fatwilly.zwo    | data\common\assets\characters\pnjs\fatwilly\skins    |   schoolkids2_diff.hvt    |   data\common\assets\textures    |
+| Holga    |   holga.zwo    | data\common\assets\characters\pnjs\holga\skins    |   schoolkids2_diff.hvt    |   data\common\assets\textures    |
+| Principal    |   principal.zwo    | data\common\assets\characters\pnjs\professor\skins    |   friedman_diff.hvt    |    data\common\assets\textures   |
+| Scientist    |   scientist.zwo    | data\common\assets\characters\pnjs\professor\skins    |   biologist_diff.hvt    |   data\common\assets\textures    |
+| School Kid 01    |   schoolkid01.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 02    |   schoolkid02.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 03    |   schoolkid03.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 04    |   schoolkid04.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 05    |   schoolkid05.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 06    |   schoolkid06.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 07    |   schoolkid07.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 08    |   schoolkid08.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
+| School Kid 09    |   schoolkid09.zwo    | data\common\assets\characters\pnjs\schoolkids\skins    |   schoolkids_diff.hvt    |   data\common\assets\textures    |
 | Shannon    |   shannon.zwo    | data\common\assets\characters\pnjs\shannon\skins    |   shannon01_diff.hvt, shannon_spec.hvt    |   data\common\assets\textures    |
 
 
