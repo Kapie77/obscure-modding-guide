@@ -75,9 +75,12 @@
 | uzi_gold    |   uzi_gold.zwo    | data\common\assets\weapons\uzi_gold    |       |       |
 | wrench    |   wrench.zwo    | data\common\assets\weapons\wrench    |       |       |
 
+## Unknown
+| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
 | torchlight_cone    |   torchlight_cone.zwo    | data\common\assets\weapons\torchlight_cone    |       |       |
 
-# Maps
+## Maps
 
 | Maps      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
