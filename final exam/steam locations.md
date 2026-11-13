@@ -9,10 +9,12 @@
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
 | Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |       |       |
-| Joe    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |       |       |
+| Brutal Joe    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |       |       |
 | Nathan    |   nathan.zwo    | data\common\assets\characters\pjs\nathan\skins    |       |       |
 | Sean    |   sean.zwo    | data\common\assets\characters\pjs\sean\skins    |       |       |
 | Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |       |       |
+
+## NPCs
 | Assistante    |   assistante.zwo    | data\common\assets\characters\pnjs\assistante\skins    |       |       |
 | Engineer    |   engineer.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
 | Handyman    |   handyman.zwo    | data\common\assets\characters\pnjs\engineer\skins    |       |       |
@@ -44,6 +46,34 @@
 | Spitter    |   spitter.zwo    |  data\common\assets\characters\monsters\jumper\skins   |       |       |
 | Tank    |   tank.zwo    |  data\common\assets\characters\monsters\tank\skins   |       |       |
 | Tank Boss    |   tank_boss.zwo    |  data\common\assets\characters\monsters\tank\skins   |       |       |
+
+## Weapons
+| Weapon      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
+| 9mm    |   9mm.zwo    | data\common\assets\weapons\9mm    |       |       |
+| axe    |   axe.zwo    | data\common\assets\weapons\axe    |       |       |
+| bat    |   bat.zwo    | data\common\assets\weapons\bat    |       |       |
+| chainsaw    |   chainsaw.zwo    | data\common\assets\weapons\chainsaw    |       |       |
+| crowbar    |   crowbar.zwo    | data\common\assets\weapons\crowbar    |       |       |
+| flamethrower    |   flamethrower.zwo    | data\common\assets\weapons\flamethrower    |       |       |
+| flash_grenade    |   flash_grenade.zwo    | data\common\assets\weapons\flash_grenade    |       |       |
+| fragment    |   fragment.zwo    | data\common\assets\weapons\fragment    |       |       |
+| grenade    |   grenade.zwo    | data\common\assets\weapons\grenade    |       |       |
+| hachoir    |   crowbar.zwo    | data\common\assets\weapons\hachoir    |       |       |
+| kalash    |   kalash.zwo    | data\common\assets\weapons\kalash    |       |       |
+| machete    |   machete.zwo    | data\common\assets\weapons\machete    |       |       |
+| magnum    |   magnum.zwo    | data\common\assets\weapons\magnum    |       |       |
+| molotov    |   molotov.zwo    | data\common\assets\weapons\molotov    |       |       |
+| rocket    |   rocket.zwo    | data\common\assets\weapons\rpg    |       |       |
+| rpg    |   rpg.zwo    | data\common\assets\weapons\rpg    |       |       |
+| sawed_shotgun    |   sawed_shotgun.zwo    | data\common\assets\weapons\sawed_shotgun    |       |       |
+| shotgun    |   shotgun.zwo    | data\common\assets\weapons\shotgun    |       |       |
+| sledgehammer    |   sledgehammer.zwo    | data\common\assets\weapons\sledgehammer    |       |       |
+| uzi    |   uzi.zwo    | data\common\assets\weapons\uzi    |       |       |
+| uzi_gold    |   uzi_gold.zwo    | data\common\assets\weapons\uzi_gold    |       |       |
+| wrench    |   wrench.zwo    | data\common\assets\weapons\wrench    |       |       |
+
+| torchlight_cone    |   torchlight_cone.zwo    | data\common\assets\weapons\torchlight_cone    |       |       |
 
 # Maps
 
