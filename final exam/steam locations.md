@@ -33,10 +33,13 @@
 ## Monsters
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
-| Basic    |   basic.zwo    |  data\common\assets\characters\monsters\basic\skins   |       |       |
-| Basic Friedman    |   basic_friedman.zwo    |  data\common\assets\characters\monsters\basic_friedman\skins   |       |       |
-| Flyer    |   flyer.zwo    |  data\common\assets\characters\monsters\flyer\skins   |       |       |
+| Hitter    |   basic.zwo    |  data\common\assets\characters\monsters\basic\skins   |       |       |
+| Kamikaze    |   basic_explosive.zwo    |  data\common\assets\characters\monsters\basic\skins   |       |       |
+| Friedman    |   basic_friedman.zwo    |  data\common\assets\characters\monsters\basic_friedman\skins   |       |       |
+| Hornet    |   flyer.zwo    |  data\common\assets\characters\monsters\flyer\skins   |       |       |
+| Catcher    |   flyer_catcher.zwo    |  data\common\assets\characters\monsters\flyer\skins   |       |       |
 | Jumper    |   jumper.zwo    |  data\common\assets\characters\monsters\jumper\skins   |       |       |
+| Spitter    |   spitter.zwo    |  data\common\assets\characters\monsters\jumper\skins   |       |       |
 | Tank    |   tank.zwo    |  data\common\assets\characters\monsters\tank\skins   |       |       |
 
 # Maps
