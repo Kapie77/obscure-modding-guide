@@ -8,11 +8,22 @@
 ## Humans
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
-| Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |       |       |
-| Brutal Joe    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |       |       |
-| Nathan    |   nathan.zwo    | data\common\assets\characters\pjs\nathan\skins    |       |       |
-| Sean    |   sean.zwo    | data\common\assets\characters\pjs\sean\skins    |       |       |
-| Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |       |       |
+| Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy_spec.hvt, cassy01_diff.hvt    |   data\common\assets\textures    |
+| Cassey Skin 2    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy02_diff.hvt    |   data\common\assets\textures    |
+| Cassey Skin 3    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy03_diff.hvt    |   data\common\assets\textures    |
+| Cassey Skin 4    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy04_diff.hvt    |   data\common\assets\textures    |
+| Brutal Joe    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |    brutaljoe01_diff.hvt   |    data\common\assets\textures   |
+| Brutal Joe Skin 2    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |    brutaljoe02_diff.hvt   |    data\common\assets\textures   |
+| Brutal Joe Skin 3    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |    brutaljoe03_diff.hvt   |    data\common\assets\textures   |
+| Brutal Joe Skin 4    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |    brutaljoe04_diff.hvt   |    data\common\assets\textures   |
+| Nathan    |   nathan.zwo    | data\common\assets\characters\pjs\nathan\skins    |   geek01_diff.hvt    |    data\common\assets\textures   |
+| Nathan Skin 2    |   nathan.zwo    | data\common\assets\characters\pjs\nathan\skins    |   geek02_diff.hvt    |    data\common\assets\textures   |
+| Nathan Skin 3    |   nathan.zwo    | data\common\assets\characters\pjs\nathan\skins    |   geek03_diff.hvt    |    data\common\assets\textures   |
+| Nathan Skin 4    |   nathan.zwo    | data\common\assets\characters\pjs\nathan\skins    |   geek04_diff.hvt    |    data\common\assets\textures   |
+| Sean    |   sean.zwo    | data\common\assets\characters\pjs\sean\skins    |    gunner_spec.hvt, gunner01_diff.hvt   |    data\common\assets\textures   |
+| Sean Skin 2    |   sean.zwo    | data\common\assets\characters\pjs\sean\skins    |    gunner02_diff.hvt   |    data\common\assets\textures   |
+| Sean Skin 3    |   sean.zwo    | data\common\assets\characters\pjs\sean\skins    |    gunner03_diff.hvt   |    data\common\assets\textures   |
+| Sean Skin 4    |   sean.zwo    | data\common\assets\characters\pjs\sean\skins    |    gunner04_diff.hvt   |    data\common\assets\textures   |
 
 ## NPCs
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
@@ -84,4 +95,14 @@
 
 | Maps      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
+| **A**    |       |     |       |       |
 | Tutorial    |   map_00_a    | data\maps\map_00\map_00_a    |       |       |
+
+1. SUBWAY RIDE
+2. SUBWAY SLIDE
+3. SCHOOL KIDS IN DISTRESS
+4. COME ON, LET'S GET OUTTA HERE!
+5. EVIL INVESTIGATION
+6. IMMINENT CURE
+7. UP IN THE AIR
+8. A SPOT OF GARDENING?
