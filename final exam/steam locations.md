@@ -63,28 +63,28 @@
 ## Weapons
 | Weapon      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
-| 9mm    |   9mm.zwo    | data\common\assets\weapons\9mm    |   9mm_diff.hvt, 9mm_spec.hvt    |       |
-| axe    |   axe.zwo    | data\common\assets\weapons\axe    |    axe_diff.hvt, axe_spec.hvt   |       |
-| bat    |   bat.zwo    | data\common\assets\weapons\bat    |    batte_diff.hvt, batte_spec.hvt   |       |
-| chainsaw    |   chainsaw.zwo    | data\common\assets\weapons\chainsaw    |   chainsaw_diff.hvt, chainsaw_spec.hvt, chainsaw_teeth_diff.hvt   |       |
-| crowbar    |   crowbar.zwo    | data\common\assets\weapons\crowbar    |   crowbar_diff.hvt    |       |
-| flamethrower    |   flamethrower.zwo    | data\common\assets\weapons\flamethrower    |    flamethrower_diff.hvt, flamethrower_spec.hvt   |       |
-| flash_grenade    |   flash_grenade.zwo    | data\common\assets\weapons\flash_grenade    |   flashbang_diff.hvt    |       |
-| fragment    |   fragment.zwo    | data\common\assets\weapons\fragment    |   flashbang_diff.hvt    |       |
-| grenade    |   grenade.zwo    | data\common\assets\weapons\grenade    |   grenade_diff.hvt    |       |
-| hachoir    |   crowbar.zwo    | data\common\assets\weapons\hachoir    |    hachoir_diff.hvt, hachoir_spec.hvt   |       |
-| kalash    |   kalash.zwo    | data\common\assets\weapons\kalash    |   kalash_diff.hvt, kalash_spec.hvt    |       |
-| machete    |   machete.zwo    | data\common\assets\weapons\machete    |   machete_diff.hvt, machete_spec.hvt    |       |
-| magnum    |   magnum.zwo    | data\common\assets\weapons\magnum    |   magnum_diff.hvt    |       |
-| molotov    |   molotov.zwo    | data\common\assets\weapons\molotov    |   molotov_diff.hvt, molotov_spec.hvt    |       |
-| rocket    |   rocket.zwo    | data\common\assets\weapons\rpg    |   rpg_diff.hvt, rpg_spec.hvt    |       |
-| rpg    |   rpg.zwo    | data\common\assets\weapons\rpg    |   rpg_diff.hvt, rpg_spec.hvt    |       |
-| sawed_shotgun    |   sawed_shotgun.zwo    | data\common\assets\weapons\sawed_shotgun    |   sawed_shotgun_diff.hvt, sawed_shotgun_spec.hvt    |       |
-| shotgun    |   shotgun.zwo    | data\common\assets\weapons\shotgun    |   shotgun_diff.hvt, shotgun_spec.hvt    |       |
-| sledgehammer    |   sledgehammer.zwo    | data\common\assets\weapons\sledgehammer    |   sledgehammer_diff.hvt, sledgehammer_spec.hvt    |       |
-| uzi    |   uzi.zwo    | data\common\assets\weapons\uzi    |   uzi_diff.hvt, uzi_spec.hvt    |       |
-| uzi_gold    |   uzi_gold.zwo    | data\common\assets\weapons\uzi_gold    |   uzi_diff.hvt, uzi_spec.hvt    |       |
-| wrench    |   wrench.zwo    | data\common\assets\weapons\wrench    |   wrench_diff.hvt, wrench_spec.hvt    |       |
+| 9mm    |   9mm.zwo    | data\common\assets\weapons\9mm    |   9mm_diff.hvt, 9mm_spec.hvt    |   data\common\assets\textures    |
+| axe    |   axe.zwo    | data\common\assets\weapons\axe    |    axe_diff.hvt, axe_spec.hvt   |    data\common\assets\textures   |
+| bat    |   bat.zwo    | data\common\assets\weapons\bat    |    batte_diff.hvt, batte_spec.hvt   |   data\common\assets\textures    |
+| chainsaw    |   chainsaw.zwo    | data\common\assets\weapons\chainsaw    |   chainsaw_diff.hvt, chainsaw_spec.hvt, chainsaw_teeth_diff.hvt   |   data\common\assets\textures    |
+| crowbar    |   crowbar.zwo    | data\common\assets\weapons\crowbar    |   crowbar_diff.hvt    |   data\common\assets\textures    |
+| flamethrower    |   flamethrower.zwo    | data\common\assets\weapons\flamethrower    |    flamethrower_diff.hvt, flamethrower_spec.hvt   |   data\common\assets\textures    |
+| flash_grenade    |   flash_grenade.zwo    | data\common\assets\weapons\flash_grenade    |   flashbang_diff.hvt    |   data\common\assets\textures    |
+| fragment    |   fragment.zwo    | data\common\assets\weapons\fragment    |   flashbang_diff.hvt    |   data\common\assets\textures    |
+| grenade    |   grenade.zwo    | data\common\assets\weapons\grenade    |   grenade_diff.hvt    |   data\common\assets\textures    |
+| hachoir    |   crowbar.zwo    | data\common\assets\weapons\hachoir    |    hachoir_diff.hvt, hachoir_spec.hvt   |   data\common\assets\textures    |
+| kalash    |   kalash.zwo    | data\common\assets\weapons\kalash    |   kalash_diff.hvt, kalash_spec.hvt    |   data\common\assets\textures    |
+| machete    |   machete.zwo    | data\common\assets\weapons\machete    |   machete_diff.hvt, machete_spec.hvt    |    data\common\assets\textures   |
+| magnum    |   magnum.zwo    | data\common\assets\weapons\magnum    |   magnum_diff.hvt    |    data\common\assets\textures   |
+| molotov    |   molotov.zwo    | data\common\assets\weapons\molotov    |   molotov_diff.hvt, molotov_spec.hvt    |   data\common\assets\textures    |
+| rocket    |   rocket.zwo    | data\common\assets\weapons\rpg    |   rpg_diff.hvt, rpg_spec.hvt    |   data\common\assets\textures    |
+| rpg    |   rpg.zwo    | data\common\assets\weapons\rpg    |   rpg_diff.hvt, rpg_spec.hvt    |    data\common\assets\textures   |
+| sawed_shotgun    |   sawed_shotgun.zwo    | data\common\assets\weapons\sawed_shotgun    |   sawed_shotgun_diff.hvt, sawed_shotgun_spec.hvt    |    data\common\assets\textures   |
+| shotgun    |   shotgun.zwo    | data\common\assets\weapons\shotgun    |   shotgun_diff.hvt, shotgun_spec.hvt    |   data\common\assets\textures    |
+| sledgehammer    |   sledgehammer.zwo    | data\common\assets\weapons\sledgehammer    |   sledgehammer_diff.hvt, sledgehammer_spec.hvt    |   data\common\assets\textures    |
+| uzi    |   uzi.zwo    | data\common\assets\weapons\uzi    |   uzi_diff.hvt, uzi_spec.hvt    |    data\common\assets\textures   |
+| uzi_gold    |   uzi_gold.zwo    | data\common\assets\weapons\uzi_gold    |   uzi_diff.hvt, uzi_spec.hvt    |    data\common\assets\textures   |
+| wrench    |   wrench.zwo    | data\common\assets\weapons\wrench    |   wrench_diff.hvt, wrench_spec.hvt    |   data\common\assets\textures    |
 
 ## Unknown
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
