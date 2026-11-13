@@ -50,15 +50,15 @@
 ## Monsters
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
-| Hitter    |   basic.zwo    |  data\common\assets\characters\monsters\basic\skins   |       |       |
-| Kamikaze    |   basic_explosive.zwo    |  data\common\assets\characters\monsters\basic\skins   |       |       |
-| Friedman    |   basic_friedman.zwo    |  data\common\assets\characters\monsters\basic_friedman\skins   |       |       |
-| Hornet    |   flyer.zwo    |  data\common\assets\characters\monsters\flyer\skins   |       |       |
-| Catcher    |   flyer_catcher.zwo    |  data\common\assets\characters\monsters\flyer\skins   |       |       |
-| Jumper    |   jumper.zwo    |  data\common\assets\characters\monsters\jumper\skins   |       |       |
-| Spitter    |   spitter.zwo    |  data\common\assets\characters\monsters\jumper\skins   |       |       |
-| Tank    |   tank.zwo    |  data\common\assets\characters\monsters\tank\skins   |       |       |
-| Tank Boss    |   tank_boss.zwo    |  data\common\assets\characters\monsters\tank\skins   |       |       |
+| Hitter    |   basic.zwo    |  data\common\assets\characters\monsters\basic\skins   |   basic_diff.hvt, basic_nmap.hvt, monster_gradient.hvt    |    data\common\assets\textures   |
+| Kamikaze    |   basic_explosive.zwo    |  data\common\assets\characters\monsters\basic\skins   |    basic_diff.hvt, basic_nmap.hvt, monster_gradient.hvt   |    data\common\assets\textures   |
+| Friedman    |   basic_friedman.zwo    |  data\common\assets\characters\monsters\basic_friedman\skins   |   friedman_diff.hvt    |    data\common\assets\textures   |
+| Hornet    |   flyer.zwo    |  data\common\assets\characters\monsters\flyer\skins   |   flying_wings.hvt    |    data\common\assets\textures   |
+| Catcher    |   flyer_catcher.zwo    |  data\common\assets\characters\monsters\flyer\skins   |    flying_wings.hvt, flying_nmap.hvt   |   data\common\assets\textures    |
+| Jumper    |   jumper.zwo    |  data\common\assets\characters\monsters\jumper\skins   |    jumper_diff.hvt, jumper_nmap.hvt   |   data\common\assets\textures    |
+| Spitter    |   spitter.zwo    |  data\common\assets\characters\monsters\jumper\skins   |   spitter_diff.hvt, jumper_nmap.hvt    |    data\common\assets\textures   |
+| Tank    |   tank.zwo    |  data\common\assets\characters\monsters\tank\skins   |    tank_diff.hvt, tank_nmap.hvt   |   data\common\assets\textures    |
+| Tank Boss    |   tank_boss.zwo    |  data\common\assets\characters\monsters\tank\skins   |   smasher_diff.hvt, smasher_nmap.hvt    |    data\common\assets\textures   |
 
 ## Weapons
 | Weapon      | Model name    | Path  | Texture Name  | Texture Location  |
