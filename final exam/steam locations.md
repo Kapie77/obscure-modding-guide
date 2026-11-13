@@ -8,10 +8,10 @@
 ## Humans
 | Character      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
-| Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy_spec.hvt, cassy01_diff.hvt    |   data\common\assets\textures    |
-| Cassey Skin 2    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy02_diff.hvt    |   data\common\assets\textures    |
-| Cassey Skin 3    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy03_diff.hvt    |   data\common\assets\textures    |
-| Cassey Skin 4    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy04_diff.hvt    |   data\common\assets\textures    |
+| Cassy    |   cassy.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy_spec.hvt, cassy01_diff.hvt    |   data\common\assets\textures    |
+| Cassy Skin 2    |   cassy.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy02_diff.hvt    |   data\common\assets\textures    |
+| Cassy Skin 3    |   cassy.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy03_diff.hvt    |   data\common\assets\textures    |
+| Cassy Skin 4    |   cassy.zwo    | data\common\assets\characters\pjs\cassy\skins    |   cassy04_diff.hvt    |   data\common\assets\textures    |
 | Brutal Joe    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |    brutaljoe01_diff.hvt   |    data\common\assets\textures   |
 | Brutal Joe Skin 2    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |    brutaljoe02_diff.hvt   |    data\common\assets\textures   |
 | Brutal Joe Skin 3    |   joe.zwo    | data\common\assets\characters\pjs\joe\skins    |    brutaljoe03_diff.hvt   |    data\common\assets\textures   |
