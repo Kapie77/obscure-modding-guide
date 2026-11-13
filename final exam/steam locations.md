@@ -3,6 +3,19 @@
   <p>Locations of game items in the Steam version.</p>
 </div>
 
+# Models
+
+## Humans
+| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
+| Cassey    |   cassey.zwo    | data\common\assets\characters\pjs\cassy\skins    |       |       |
+
+
+## Monsters
+| Character      | Model name    | Path  | Texture Name  | Texture Location  |
+|----------------|---------------|-------|---------------|-------------------|
+| basic    |   basic.zwo    |  data\common\assets\characters\monsters\basic\skins   |       |       |
+
 # Maps
 
 | Maps      | Model name    | Path  | Texture Name  | Texture Location  |
