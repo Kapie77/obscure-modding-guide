@@ -96,7 +96,12 @@
 | Maps      | Model name    | Path  | Texture Name  | Texture Location  |
 |----------------|---------------|-------|---------------|-------------------|
 | **A - Tutorial**    |       |     |       |       |
-| Tutorial    |   map_00_a    | data\maps\map_00\map_00_a    |       |       |
+| Tutorial    |   map_00_a.zwo    | data\maps\map_00\map_00_a    |       |       |
+| **B - Subway Ride**    |       |     |       |       |
+| The part where you go down an escalator and there's a blue item on the left, near an exit door, and where, further ahead on the right, after another escalator, the first alarm is going off nonstop and you have to turn it off.    |   map_01_a.zwo    | data\maps\map_01\map_01_a    |       |       |
+| The part where you go down a huge escalator and encounter the Jumper for the first time, and where there’s a broken train on the left and, as you go down, a room on the right with a yellow light.    |   map_01_b.zwo    | data\maps\map_01\map_01_b    |       |       |
+| No clue where is this    |   map_01_c.zwo    | data\maps\map_01\map_01_c    |       |       |
+| No clue where is this    |   map_01_d.zwo    | data\maps\map_01\map_01_d    |       |       |
 
 1. SUBWAY RIDE
 2. SUBWAY SLIDE
